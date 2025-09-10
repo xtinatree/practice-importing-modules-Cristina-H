@@ -1,0 +1,19 @@
+{
+  "name": "practice-importing-modules-cristina-h",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtinatree/practice-importing-modules-Cristina-H.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xtinatree/practice-importing-modules-Cristina-H/issues"
+  },
+  "homepage": "https://github.com/xtinatree/practice-importing-modules-Cristina-H#readme"
+}
